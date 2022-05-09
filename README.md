@@ -16,20 +16,4 @@ Preview of this Website Image is attached below
  Home Preview
  
 1
-![preview-home](https://user-images.githubusercontent.com/85095015/161122559-c5550f03-1836-4d3f-885d-d98f1d7deda8.jpg)
-
-
- 
- Tab View
- 
- 2
- ![preview-tablet](https://user-images.githubusercontent.com/85095015/161122691-f557c37a-fde4-489c-9f27-3a50c9c1a1a5.jpg)
-
-
-
-Mobile View
-
-3
-![preview-mobile](https://user-images.githubusercontent.com/85095015/161122753-f9ea779e-447e-4035-84ba-967cc156e7b7.jpg)
-
-
+![Preview-Home](https://user-images.githubusercontent.com/85095015/167480737-5445bbca-d1ae-43eb-ab7d-089fe4bdc57f.png)
